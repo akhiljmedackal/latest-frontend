@@ -1,0 +1,27 @@
+.services-section {
+   
+    background-color:white;
+    padding: 53px 50px 23px 90px;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    padding-left: 150px !important;
+}
+.services-section .services-card {
+    padding: 20px;
+}
+
+.canteen-box {
+    display: flex;
+    width: 250px;
+    height: 200px;
+    justify-content: center;
+    background: #3b4da7;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.2);
+    align-items: center;
+}
+.tt{
+    /* padding-top: 100px; */
+    color: white;
+}

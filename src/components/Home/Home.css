@@ -1,0 +1,24 @@
+.center{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
+    padding-bottom: 0.3rem;
+    padding-top: 20px;
+}
+.container1{
+    padding-left: 900px;
+    padding-top: 100px;
+}
+.container2{
+    padding-left: 20px;
+    padding-top: 100px;
+}
+.container3{
+    padding-left: 900px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.text{
+    color: #3b4da7;
+    font-size: 1.5rem;
+}

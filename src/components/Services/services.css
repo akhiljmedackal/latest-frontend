@@ -1,0 +1,50 @@
+.services-section {
+    text-align: center;
+    background-color:white;
+    padding: 53px 50px 23px 90px;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    
+}
+.services-section .services-card {
+    padding: 20px;
+}
+
+.services-box {
+    display: inline-grid;
+    width: 80%;
+    height: 100%;
+    justify-content: center;
+    background: #3b4da7;
+    border-radius: 25px;
+    
+}
+.services-box:hover {
+    background: #141c46;
+    cursor: pointer;
+}
+
+.services-box img {
+    width: 220px;
+    height: 200px;
+    margin-top: 35px;
+    border-radius: 25px;
+}
+.services-box p {
+    color: white;
+}
+.service-canteen-btn {
+    text-align: center;
+    color: white !important;
+    background:rgb(20, 43, 51) !important;
+    border-radius: 14px !important;
+    
+}
+.cat{
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+.services-section a {
+    text-decoration: none;
+}

@@ -1,0 +1,77 @@
+.main-container {
+    padding: 25px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(268.5px, auto));
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.item {
+    width: 260px;
+    height: 190px;
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 3px 3px #e1e1e1;
+}
+
+.title {
+    padding-left: 18px;
+    padding-top: 12px;
+    font-size: 20px;
+    color: #002d72;
+}
+
+.role {
+    padding-left: 18px;
+    padding-top: 2px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.email {
+    padding-left: 18px;
+    padding-top: 2px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.pwd {
+    padding-left: 18px;
+    padding-top: 2px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.cartBtn {
+    margin-left: 18px;
+    margin-top: 15px;
+    padding: 8px;
+    font-size: 12px;
+    background: #002d72;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 8px;
+}
+
+.cartBtn:hover {
+    background: #5265c4;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-between;
+}
+
+.stock {
+    margin: 5px 15px 10px 10px;
+    font-weight: 500;
+}

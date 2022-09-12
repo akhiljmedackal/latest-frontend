@@ -1,0 +1,31 @@
+.Footer{
+    background-color: black;
+    /* background-image: url(https://burst.shopifycdn.com/photos/breakfast-from-above.jpg?width=925&format=pjpg&exif=1&iptc=1); */
+    background-size: cover;
+    height: 250px;
+    color: white;
+    text-align: center;
+   
+}
+/* .cmp{
+    background-image: linear-gradient(180deg,transparent,rgb(14, 9, 9)) ;
+    height: 300px;
+} */
+.title-footer{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding-bottom: 0.3rem;
+}
+.description-footer{
+    padding-top: 20px;
+    /* padding-left: 650px; */
+
+}
+.img2{
+    height: 80px;
+    /* padding-left: 600px;
+    
+    display: flex; */
+}

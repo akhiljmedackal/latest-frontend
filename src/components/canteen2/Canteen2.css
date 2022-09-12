@@ -1,0 +1,11 @@
+.canteen1 .canteen1-card {
+    background-color: #e92020 !important;
+    cursor: pointer;
+    border-radius: 20px !important;
+}
+.canteen1 .canteen1-card:hover {
+    background-color: #c1eb4d !important;
+}
+.canteen1 .canteen1-card img {
+    border-radius: 20px !important;
+}
